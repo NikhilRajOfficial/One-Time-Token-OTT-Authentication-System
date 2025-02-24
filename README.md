@@ -76,12 +76,11 @@ Result 1](https://github.com/NikhilRajOfficial/One-Time-Token-OTT-Authentication
 ## 📚 Resources and Documentation
 
 ### Official Documentation
-- [Spring Security Docs](https://docs.spring.io/spring-security/reference/index.html)
-- [Spring Boot Docs](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+- [Spring Security Docs]([https://docs.spring.io/spring-security/reference/servlet/authentication/onetimetoken.html])
 
-### Tutorials and Guides
-- [Spring Boot Email Sending Tutorial](https://www.youtube.com/watch?v=5hPVzjQSJt8)
-- [Spring Security In-memory Authentication](https://www.youtube.com/watch?v=X80nJ5g2Lfo)
+
+### Tutorials 
+- [Spring Boot Email Sending Tutorial](https://youtu.be/otdPVawMXUU?si=xCprTq6-7eRAm6Df).
 
 ---
 
