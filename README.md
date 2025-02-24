@@ -66,7 +66,9 @@ The security is configured using Spring Security with in-memory user store for t
 
 Here's a preview of the OTT Authentication System in action:
 
-![Result](path/to/your/image.png)
+![Result]([path/to/your/image.png](https://github.com/NikhilRajOfficial/One-Time-Token-OTT-Authentication-System/blob/b9f81b23d51caf9d67a15d096471f7addafd9af7/Screenshot%202025-02-24%20214147.png))
+![Result]([path/to/your/image.png]https://github.com/NikhilRajOfficial/One-Time-Token-OTT-Authentication-System/blob/b9f81b23d51caf9d67a15d096471f7addafd9af7/Screenshot%202025-02-24%20214245.png)
+![Result]([path/to/your/image.png]https://github.com/NikhilRajOfficial/One-Time-Token-OTT-Authentication-System/blob/b9f81b23d51caf9d67a15d096471f7addafd9af7/Screenshot%202025-02-24%20214259.png)
 
 ---
 
