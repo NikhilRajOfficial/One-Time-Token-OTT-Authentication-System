@@ -76,7 +76,7 @@ Result 1](https://github.com/NikhilRajOfficial/One-Time-Token-OTT-Authentication
 ## 📚 Resources and Documentation
 
 ### Official Documentation
-- [Spring Security Docs]([https://docs.spring.io/spring-security/reference/servlet/authentication/onetimetoken.html])
+-[Spring Security Docs](https://docs.spring.io/spring-security/reference/servlet/authentication/onetimetoken.html)
 
 
 ### Tutorials 
